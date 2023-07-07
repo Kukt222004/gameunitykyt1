@@ -1,0 +1,74 @@
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.exe
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.deps.json
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.runtimeconfig.json
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.pdb
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.csproj.AssemblyReference.cache
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.BDhome.resources
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.Enroll.resources
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.Form1.resources
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.Home.resources
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.Parents.resources
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.students.resources
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.csproj.GenerateResource.cache
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.AssemblyInfoInputs.cache
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.AssemblyInfo.cs
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.csproj.CopyComplete
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\refint\BDSchol.dll
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.pdb
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.genruntimeconfig.cache
+C:\Users\Student2\Desktop\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\ref\BDSchol.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.exe
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.deps.json
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.runtimeconfig.json
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\BDSchol.pdb
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Data.OleDb.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Drawing.Common.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Security.Permissions.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\System.Windows.Extensions.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\bin\x86\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.csproj.AssemblyReference.cache
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.BDhome.resources
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.Enroll.resources
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.Form1.resources
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.Home.resources
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.Parents.resources
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.students.resources
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.csproj.GenerateResource.cache
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.GeneratedMSBuildEditorConfig.editorconfig
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.AssemblyInfoInputs.cache
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.AssemblyInfo.cs
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.csproj.CoreCompileInputs.cache
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.csproj.CopyComplete
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\refint\BDSchol.dll
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.pdb
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\BDSchol.genruntimeconfig.cache
+E:\дом раб\учёба\9ИСиП-201\3 курс\BDSchol\BDSchol\obj\x86\Debug\net6.0-windows\ref\BDSchol.dll

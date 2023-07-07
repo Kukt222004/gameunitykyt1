@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmPOI5KXxmyipu29o8Nut6FHEfHIlYBNHIjX48hQ8UNuQYsCH8XHP9NDV6vzMzKRYB2OO0oBTz/1mmFtNN2I1w==",
+  "success": true,
+  "projectFilePath": "E:\\дом раб\\учёба\\9ИСиП-201\\3 курс\\BDSchol\\BDSchol\\BDScholPeredel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cutee\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\cutee\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\cutee\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\cutee\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\cutee\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\cutee\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\cutee\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\cutee\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
